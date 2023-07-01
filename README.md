@@ -8,6 +8,7 @@ A ideia é usar o GIT para trabalhamos em equipe e compartilhar nossa evolução
 1. AREM2_para_casa01_arvore-de-regressao
 2. AREM2_exercicio_para_casa_randomforest
 3. AREM2_exercicios_para_casa_da_aula_anterior
+4. [links uteis sobre a materia de Arvoes e essembles](https://github.com/Marcu-Loreto/MBA_Exercicios/blob/main/Links%20uteis.pdf)
 
 ### **_Observação_** 
 
